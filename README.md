@@ -4,7 +4,7 @@ Fork of https://github.com/serpapps/skool-downloader but removed stupid keyauth 
 
 ## Installation
 
-1.  Download the latest release from the [releases page](https://github.com/your-username/skool-video-downloader/releases).
+1.  Download the latest release from the [releases page](https://github.com/agxinoia/Skool-Scraper/releases/tag/build).
 2.  Unzip the downloaded file.
 3.  Open Chrome and navigate to `chrome://extensions`.
 4.  Enable "Developer mode" in the top right corner.

@@ -1,6 +1,6 @@
 # Skool Video Downloader
 
-Fork of https://github.com/serpapps/skool-downloader but removed stupided keyauth , also added page download feature.
+Fork of https://github.com/serpapps/skool-downloader but removed stupid keyauth , also added page download feature.
 
 ## Installation
 

@@ -24,7 +24,3 @@ Fork of https://github.com/serpapps/skool-downloader but removed stupid keyauth 
 ## Disclaimer
 This extension is intended for personal use only. Please respect the terms of service of the platforms you are downloading videos from. Do not use this extension to download copyrighted material that you do not have the right to access.
 
-## Give back
-If you do use this tool and want to give back, donate whatever information you scraped.
-Upload it to https://gofile.io/ then send it to agxinoia@tuta.io.
-Education is a human right and should be free and accessible for everyone. 
